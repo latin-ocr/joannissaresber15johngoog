@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannissaresber15johngoog_0007.png"; bbox 0 0 2992 5592; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 160 2216 1057 2296">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 160 2216 1057 2296">
+     <span class='ocr_line' id='line_1_1' title="bbox 160 2216 1057 2296; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 160 2219 361 2296; x_wconf 85' lang='lat' dir='ltr'>PATRES</span> <span class='ocrx_word' id='word_1_2' title='bbox 400 2217 671 2294; x_wconf 84' lang='lat' dir='ltr'>ECOLESIAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 710 2216 1057 2293; x_wconf 85' lang='lat' dir='ltr'><strong>ANGLIOANAE:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 86 2441 1178 2522">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 86 2441 1178 2522">
+     <span class='ocr_line' id='line_1_2' title="bbox 86 2441 1178 2522; baseline 0.001 -13"><span class='ocrx_word' id='word_1_4' title='bbox 86 2442 338 2522; x_wconf 68' lang='lat' dir='ltr'>MELMUS,</span> <span class='ocrx_word' id='word_1_5' title='bbox 367 2443 504 2518; x_wconf 84' lang='lat' dir='ltr'><strong>BEDA,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 538 2441 826 2517; x_wconf 80' lang='lat' dir='ltr'><strong>BoNlFAclus,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 860 2443 1178 2520; x_wconf 77' lang='lat' dir='ltr'>LANFRANcus,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 136 2625 1082 2709">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 136 2625 1082 2709">
+     <span class='ocr_line' id='line_1_3' title="bbox 136 2625 1082 2709; baseline 0.001 -17"><span class='ocrx_word' id='word_1_8' title='bbox 136 2630 172 2693; x_wconf 90' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 193 2627 395 2705; x_wconf 83' lang='lat' dir='ltr'>THOMAS,</span> <span class='ocrx_word' id='word_1_10' title='bbox 415 2626 659 2692; x_wconf 86' lang='lat' dir='ltr'><strong>JOHANNES</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 681 2625 1082 2709; x_wconf 86' lang='lat' dir='ltr'>SARESBERIENSIS,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 209 2811 1009 2893">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 209 2811 1009 2893">
+     <span class='ocr_line' id='line_1_4' title="bbox 209 2811 1009 2893; baseline 0.003 -17"><span class='ocrx_word' id='word_1_12' title='bbox 209 2811 390 2877; x_wconf 85' lang='lat' dir='ltr'>PETRUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 419 2811 679 2893; x_wconf 85' lang='lat' dir='ltr'>BLESENSIS,</span> <span class='ocrx_word' id='word_1_14' title='bbox 707 2814 769 2879; x_wconf 86' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 797 2811 1009 2887; x_wconf 87' lang='lat' dir='ltr'><strong>RELIQUI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1500 5592">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1500 5592">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1500 5592; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1500 5592; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
